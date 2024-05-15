@@ -1,6 +1,6 @@
 # TempTranscend
 
-TempTranscend is a sleek and modern temperature conversion app, offering a native GUI-based desktop experience. It is meticulously crafted using React, Redux Toolkit, Tailwind CSS, and Electron JS. TempTranscend not only ensures efficient temperature conversion but also provides a minimal setup to run seamlessly on your desktop using Vite with Hot Module Replacement (HMR). Additionally, it integrates ESLint rules for maintaining code consistency.
+TempTranscend is a native GUI-based desktop application, utilizing Electron JS, React, Redux, and Tailwind CSS. It seamlessly converts temperatures in real time and offers a hassle-free setup experience.
 
 ## Features
 
@@ -32,7 +32,6 @@ npm run dev
 
 - Vite: Used as the front-end toolkit for setting up the React project.
 - Redux Toolkit: Chosen for efficient state management.
-- State management with Redux Toolkit
 - Tailwind CSS: Utilized to create a clean, modern, and responsive user interface.
 - Electron JS: Employed to convert the app into a native desktop application.
 
